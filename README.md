@@ -13,3 +13,10 @@
 
 <hr>
 
+<hr>
+<b>Problem </b> <a href ="http://www.geeksforgeeks.org/count-pairs-with-given-sum/">Count pairs with given sum </a><br>
+<b> Folder or category:</b> <a href ="https://github.com/patilankita79/LeetCode/tree/master/easy" >easy </a> <br>
+<b> Filename: </b> <a href ="https://github.com/patilankita79/LeetCode/blob/master/easy/TwoSum.java" />CountPairsWithSum.java  </a>
+
+<hr>
+
